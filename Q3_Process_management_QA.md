@@ -677,7 +677,7 @@ System calls interact with hardware; many fail due to permission, resource, or I
 130. Execl() vs Execv().
 
 execl() uses variable arguments; execv() takes an array of arguments.
-
+//
 131. Execlp() vs Execvp().
 
 Both search PATH; execlp() uses variable args, execvp() uses array form.
