@@ -1,4 +1,4 @@
-# Thread Programming in C — Batch 1 (Q1–Q45)
+# Thread Programming in C 
 
 **Compile with:** `gcc -pthread file.c -o program`
 
